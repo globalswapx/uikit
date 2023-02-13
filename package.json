@@ -1,6 +1,6 @@
 {
-  "name": "@globalswap-libs/uikit",
-  "version": "0.1.0",
+  "name": "@globalswapx/uikit",
+  "version": "0.1.2",
   "description": "Set of UI components for GlobalSwap projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/globalswapx/globalswap-uikit",
+  "repository": "https://github.com/globalswapx/uikit",
   "license": "MIT",
   "scripts": {
     "build": "rollup -c && tsc -d --emitDeclarationOnly --declarationDir dist",
